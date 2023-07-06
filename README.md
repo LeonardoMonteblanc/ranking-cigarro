@@ -18,3 +18,10 @@ Telas
   - 
  
 - Painel com o valor gasto em cigarro
+
+
+Tecnologia usadas 
+- Nodejs
+- React
+- MongoDB
+- 
